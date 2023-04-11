@@ -1,3 +1,3 @@
 - Đề hơi dài thôi ạ, và phần filter em không rõ cái params ở api tên là gì nên em chưa có làm được
 
-- em sẽ dùng đệ quy đễ vẽ ạ
+- vâng, nếu có thêm thời gian em có thể hoàn thiện giao diện và code được chỉnh chu hơn ạ
